@@ -1,2 +1,1 @@
-# Pahe-DL
-A lightweight command-line tool for searching, seledownloading anime episodes from AnimePahe.
+A lightweight, interactive command-line tool to search and batch-download anime from AnimePahe with multi-threaded speed.
