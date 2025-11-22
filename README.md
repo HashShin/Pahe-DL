@@ -26,6 +26,12 @@ The creators and maintainers of this tool do not condone or encourage any unauth
 The application is provided as a single executable file (`Pahe-DL-Linux` or `Pahe-DL-Windows.exe`).
 
 - **Download**: Get the latest release for Windows, Android Termux, or Linux. [Download](https://github.com/HashShin/Pahe-DL/releases/latest)
+
+
+Install with one command Android Termux and Linux
+ ```
+curl -fsSL https://raw.githubusercontent.com/HashShin/Pahe-DL/main/script/install.sh | sh
+```
   
 
 ### 2. Execution
@@ -38,7 +44,7 @@ Open your command line and run the program from its directory:
 
 ```
 
-**Linux**
+**Android/Linux**
 ```
 
 ./Pahe-DL-linux
@@ -115,5 +121,3 @@ Files are automatically organized into a folder named after the anime and placed
 | **Download fails/stops** | Tool retries automatically; if persistent, the source may be down. |
 | **Quality not found** | Falls back to next best available quality. |
 | **"Permission Denied"** | Give execute permission (Linux): `chmod +x ./Pahe-DL-linux` |
-
-```
