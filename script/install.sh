@@ -30,6 +30,7 @@ curl -L -o "$OUTPUT_FILE" "$LATEST_URL"
 # Make it executable
 chmod +x "$OUTPUT_FILE"
 
+clear
 # Define color codes
 GREEN="\033[1;32m"
 RESET="\033[0m"
