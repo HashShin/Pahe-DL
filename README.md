@@ -1,4 +1,5 @@
 # Pahe-DL
+![My Banner](/img/banner.jpg)
 
 A lightweight, interactive command-line tool to search and batch-download anime from AnimePahe with multi-threaded speed.
 
@@ -101,17 +102,8 @@ Choose what episodes to download. Examples:
 ### **Step 5: Monitor the Download**
 You’ll see real-time progress:
 
-```
+![download](./img/download_sample.jpg)
 
-==================================================
-Downloading: Anime Title | Status: Finished | Season: Fall 2024 | Quality: 720p
-===============================================================================
-
-[#01] EP01.mp4 100% [==============================] 256.4M/256.4M @ 5.2M/s
-[#02] EP02.mp4 100% [==============================] 255.1M/255.1M @ 6.1M/s
-...
-
-```
 
 Files are automatically organized into a folder named after the anime.
 
