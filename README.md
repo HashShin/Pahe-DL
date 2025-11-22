@@ -5,13 +5,13 @@ A lightweight, interactive command-line tool to search and batch-download anime 
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 This tool interacts with content hosted on third-party websites. Users are responsible for complying with all applicable local and international laws and the terms of service of the content providers.  
 The creators and maintainers of this tool do not condone or encourage any unauthorized use.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Interactive Search** — Find anime titles quickly right from your terminal.  
 - **Optimal Downloads** — Uses concurrent connections to maximize download speed.  
 - **Live Progress** — Real-time progress bars for active downloads.  
@@ -20,15 +20,13 @@ The creators and maintainers of this tool do not condone or encourage any unauth
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Installation
-The application is provided as a single executable file (`animepahe-dl` or `animepahe-dl.exe`).
+The application is provided as a single executable file (`Pahe-DL-Linux` or `Pahe-DL-Windows.exe`).
 
-- **Download**: Get the latest release for Windows, macOS, or Linux.  
-- **Placement**: Put the executable in a convenient folder, e.g.:
-  - `C:\anime-downloader`
-  - `~/Downloads/Downloader`
+- **Download**: Get the latest release for Windows, Android Termux, or Linux. [Download](https://github.com/HashShin/Pahe-DL/releases/latest)
+  
 
 ### 2. Execution
 Open your command line and run the program from its directory:
@@ -36,20 +34,20 @@ Open your command line and run the program from its directory:
 **Windows**
 ```
 
-.\animepahe-dl.exe
+.\Pahe-DL.exe
 
 ```
 
-**macOS/Linux**
+**Linux**
 ```
 
-./animepahe-dl
+./Pahe-DL-linux
 
 ```
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 The program guides you through a simple step-by-step flow.
 
@@ -105,7 +103,7 @@ You’ll see real-time progress:
 ![download](./img/download_sample.jpg)
 
 
-Files are automatically organized into a folder named after the anime.
+Files are automatically organized into a folder named after the anime and placed in the anime_download folder.
 
 ---
 
@@ -116,6 +114,6 @@ Files are automatically organized into a folder named after the anime.
 | **Download is slow** | Check internet speed; servers may also be slow. |
 | **Download fails/stops** | Tool retries automatically; if persistent, the source may be down. |
 | **Quality not found** | Falls back to next best available quality. |
-| **"Permission Denied"** | Give execute permission (macOS/Linux): `chmod +x ./animepahe-dl` |
+| **"Permission Denied"** | Give execute permission (Linux): `chmod +x ./Pahe-DL-linux` |
 
 ```
