@@ -37,4 +37,4 @@ RESET="\033[0m"
 
 echo "Downloaded $OUTPUT_FILE successfully."
 echo
-echo -e "To use, just run: ${GREEN}./$OUTPUT_FILE${RESET}"
+echo "To use, just run: ${GREEN}./$OUTPUT_FILE${RESET}"
