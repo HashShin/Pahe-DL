@@ -1,7 +1,7 @@
 # Pahe-DL
 ![My Banner](/img/banner.jpg)
 
-A lightweight, interactive command-line tool to search and batch-download anime from AnimePahe with multi-threaded speed.
+A lightweight, interactive AnimePahe downloader and command-line tool to search and batch-download anime from AnimePahe with multi-threaded speed.
 
 ---
 
