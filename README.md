@@ -1,5 +1,6 @@
 # Pahe-DL
-![My Banner](https://raw.githubusercontent.com/HashShin/Pahe-DL/main/img/banner.jpg)
+<img src="https://raw.githubusercontent.com/HashShin/Pahe-DL/main/img/banner.jpg" alt="Banner" style="max-width: 100%; width: 600px;">
+
 
 A lightweight, interactive AnimePahe downloader and command-line tool to search and batch-download anime from AnimePahe with multi-threaded speed.
 
@@ -106,7 +107,9 @@ Choose what episodes to download. Examples:
 ### **Step 5: Monitor the Download**
 You’ll see real-time progress:
 
-![download](https://raw.githubusercontent.com/HashShin/Pahe-DL/main/img/download_sample.jpg)
+
+
+<img src="https://raw.githubusercontent.com/HashShin/Pahe-DL/main/img/download_sample.jpg" alt="download_sample" style="max-width: 100%; width: 600px;">
 
 
 Files are automatically organized into a folder named after the anime and placed in the anime_download folder.
