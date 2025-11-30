@@ -41,7 +41,7 @@ Open your command line and run the program from its directory:
 **Windows**
 ```
 
-.\Pahe-DL.exe
+open the Pahe-DL.exe
 
 ```
 
