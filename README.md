@@ -36,13 +36,15 @@ curl -fsSL https://raw.githubusercontent.com/HashShin/Pahe-DL/main/script/instal
   
 
 ### 2. Execution
-Open your command line and run the program from its directory:
 
 **Windows**
 
 Open the **Pahe-DL.exe** file.
 
 **Android/Linux**
+
+Open your command line and run the program from its directory:
+
 ```
 
 ./Pahe-DL-linux
